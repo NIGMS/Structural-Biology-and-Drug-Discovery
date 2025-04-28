@@ -1,0 +1,23 @@
+[
+    {
+        "question": "The figure above shows the docked structure of a drug in a complex with EGFR kinase, highlighting the binding site with non-covalent interactions. The interaction highlighted between the aromatic rings of the drug with Leu 844 and Leu718 is ",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Hydrogen bonding",
+                "correct": false,
+                "feedback": "Incorrect"
+            },
+            {
+                "answer": "Electrostatic interaction",
+                "correct": false,
+                "feedback": "Incorrect"
+            },
+            {
+                "answer": "Hydrophobic interaction",
+                "correct": true,
+                "feedback": "Correct"
+            }                  
+        ] 
+    }
+]

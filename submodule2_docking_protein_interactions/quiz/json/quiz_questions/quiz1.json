@@ -1,0 +1,28 @@
+[
+    {
+        "question": "In drug discovery, one of the uses of computational docking is,",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "To find the least toxic molecule among thousands of selected molecules.",
+                "correct": false,
+                "feedback": "Incorrect"
+            },
+            {
+                "answer": "Prioritize molecules for synthesis among thousands of designed molecules to accelerate the drug discovery process.",
+                "correct": true,
+                "feedback": "Correct"
+            },
+            {
+                "answer": "To generate a library of molecules that have a high affinity for the target protein",
+                "correct": false,
+                "feedback": "Incorrect"
+            },
+            {
+                "answer": "To select a molecule for clinical trial.",
+                "correct": false,
+                "feedback": "Incorrect"
+            }                  
+        ] 
+    }
+]

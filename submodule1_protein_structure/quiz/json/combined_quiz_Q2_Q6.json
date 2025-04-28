@@ -1,0 +1,112 @@
+[
+    {
+        "question": "Q2. The peptide bonds in fragments of a protein structure are marked (see above image). Which one of the marked peptide bonds can have “cis” configuration in a protein structure?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "a",
+                "correct": true,
+                "feedback": "Correct"
+            },
+            {
+                "answer": "b",
+                "correct": false,
+                "feedback": "Incorrect"
+            },
+            {
+                "answer": "c",
+                "correct": false,
+                "feedback": "Incorrect"
+            },
+            {
+                "answer": "d",
+                "correct": false,
+                "feedback": "Incorrect"
+            }                  
+        ] 
+    },
+    {
+        "question": "Q3. Most of the α-helical protein structures that exists in nature are left-handed α-helical structures",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "True",
+                "correct": false,
+                "feedback": "Incorrect"
+            },
+            {
+                "answer": "False",
+                "correct": true,
+                "feedback": "Correct"
+            }              
+        ] 
+    },
+    {
+        "question": "Q4. How many disulfide bonds are formed in the following peptide? YSTLCGTRWFTCENGLYCFPDDCFRIPPTCLARLLTC ",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "1",
+                "correct": false,
+                "feedback": "Incorrect"
+            },
+            {
+                "answer": "2",
+                "correct": false,
+                "feedback": "Incorrect"
+            },
+            {
+                "answer": "3",
+                "correct": true,
+                "feedback": "Correct"
+            },
+            {
+                "answer": "4",
+                "correct": false,
+                "feedback": "Incorrect"
+            }                  
+        ] 
+    },
+    {
+        "question": "Q5. An enzyme derived from yeast, tuna, rice and bacteria was subjected to protein sequence analysis. The amino acid sequence of the enzyme in all the species mentioned above was 85% similar. Because an enzyme in yeast, tuna, rice and bacteria have similar sequence, the overall secondary structure of this enzyme in all the species will be similar.",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "True",
+                "correct": true,
+                "feedback": "Correct"
+            },
+            {
+                "answer": "False",
+                "correct": false,
+                "feedback": "Incorrect"
+            }                  
+        ] 
+    },
+    {
+        "question": "Q6. Human insulin protein (pictured below) is composed of 51 amino acids that are made up of two chains. Insulin forms hexamers in the presence of Zinc, the hexamer structure is an example of ----------- structure? ",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Primary",
+                "correct": false,
+                "feedback": "Incorrect"
+            },
+            {
+                "answer": "Secondary",
+                "correct": false,
+                "feedback": "Incorrect"
+            },
+            {
+                "answer": "Tertiary",
+                "correct": false,
+                "feedback": "Incorrect"
+            },
+            {
+                "answer": "Quaternary",
+                "correct": true,
+                "feedback": "Correct"
+            }                  
+        ] 
+    }  
+]

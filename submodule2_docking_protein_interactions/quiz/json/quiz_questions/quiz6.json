@@ -1,0 +1,28 @@
+[
+    {
+        "question": "Which one of the following statements reflects the limitations of the docking calculations described above? (choose all that apply) ",
+        "type": "many_choice",
+        "answers": [
+            {
+                "answer": "Low energy docking ligand does not necessarily provide a biological change in and pharmacological activity change.",
+                "correct": true,
+                "feedback": "Correct"
+            },
+            {
+                "answer": "Docking calculations may not accommodate the water molecules needed in the binding site.",
+                "correct": true,
+                "feedback": "Correct"
+            },
+            {
+                "answer": "Docking calculations cannot be performed if the binding site on the surface of a protein is not known experimentally.",
+                "correct": false,
+                "feedback": "Incorrect"
+            },
+            {
+                "answer": "Docking calculations do not take into account if the ligand changes the conformation.",
+                "correct": false,
+                "feedback": "Incorrect"
+            }                  
+        ] 
+    }
+]

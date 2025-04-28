@@ -1,0 +1,18 @@
+[
+    {
+        "question": "In docking calculations described in this module, the ligand with the lowest free energy of binding and other liagdn conformations within the 2 kacl of lowest free energy of binding are considered as possible binding ligand molecular poses at the protein binding site. ",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "True",
+                "correct": true,
+                "feedback": "Correct"
+            },
+            {
+                "answer": "False",
+                "correct": false,
+                "feedback": "Incorrect"
+            }        
+        ] 
+    }
+]

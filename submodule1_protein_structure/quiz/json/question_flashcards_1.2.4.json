@@ -1,0 +1,14 @@
+[
+    {
+        "front": "How do the side chain torsion angles (chi) of residues in the binding pocket contribute to ligand binding?",
+        "back": "With proper orientation towards the ligand, side chain torsion angles can contribute to hydrogen bonding, electrostatic interaction or hydrophobic interaction depending on the nature of the amino acid side chain in the binding pocket."
+    },
+    {
+        "front": "Which types of interactions (e.g., hydrogen bonds, hydrophobic interactions) are most significant for stabilizing ibuprofen in the binding site? ",
+        "back": "Both hydrogen bonds and hydrophobic interactions (three hydrogen bonds and hydrophobic interactions)."
+    },
+    {
+        "front": "What happens if a mutation alters the chi angle of a key residue? Would this affect ligand binding?",
+        "back": "Yes, ligand binding is affected because mutation results in any other amino acid residue replacing the existing ones."
+    }
+]

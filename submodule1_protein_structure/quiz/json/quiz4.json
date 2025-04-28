@@ -1,0 +1,31 @@
+
+
+
+[
+    {
+        "question": "How many disulfide bonds are formed in the following peptide? YSTLCGTRWFTCENGLYCFPDDCFRIPPTCLARLLTC ",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "1",
+                "correct": false,
+                "feedback": "Incorrect"
+            },
+            {
+                "answer": "2",
+                "correct": false,
+                "feedback": "Incorrect"
+            },
+            {
+                "answer": "3",
+                "correct": true,
+                "feedback": "Correct"
+            },
+            {
+                "answer": "4",
+                "correct": false,
+                "feedback": "Incorrect"
+            }                  
+        ] 
+    }
+]

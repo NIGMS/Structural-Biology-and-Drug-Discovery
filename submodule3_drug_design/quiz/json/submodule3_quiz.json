@@ -1,0 +1,197 @@
+[
+    {
+        "question": "Q1. In enzyme-based drug design, the drug binds to the enzyme active site. Based on the concept, which of the following statements is correct?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "When the endogenous ligand is bound in the enzyme cavity, the drug cannot bind with enzyme.",
+                "correct": false,
+                "feedback": "Incorrect"
+            },
+            {
+                "answer": "The drug designed competitively binds to the active site and inhibits endogenous ligand binding to the enzyme.",
+                "correct": true,
+                "feedback": "Correct"
+            },
+            {
+                "answer": "Both drug and endogenous ligand bind to the enzyme, but enzyme activity is reduced",
+                "correct": false,
+                "feedback": "Incorrect"
+            },
+            {
+                "answer": "Enzyme active site and drug binding site on the enzyme are different.",
+                "correct": false,
+                "feedback": "Incorrect"
+            }                  
+        ] 
+    },
+    {
+        "question": "Q2. Erlotinib is a drug that binds to epidermal growth factor receptor (EGFR) kinase domain. The binding of drug with kinase enzyme is by hydrogen, bonding and hydrophobic interaction. Hence erlotinib is ___________inhibitor ? ",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "reversible",
+                "correct": true,
+                "feedback": "Correct"
+            },
+            {
+                "answer": "irreversible",
+                "correct": false,
+                "feedback": "Incorrect"
+            } 
+        ] 
+    },
+    {
+        "question": "Q3. The dissociation constant for drug A  binding with its receptor/enzyme is 4x10-6  M, and for drug B is 9x10-4 M. Which one of these binds to the receptor/enzyme with lower affinity?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Drug A",
+                "correct": false,
+                "feedback": "Incorrect"
+            },
+            {
+                "answer": "Drug B",
+                "correct": true,
+                "feedback": "Correct"
+            }              
+        ] 
+    },
+    {
+        "question": "Q4. The dissociation half-life of a drug X in the enzyme cavity is 250 µsec, and that of drug Y is 800 µsec. Which ones of these drugs has low Kd value?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Drug X",
+                "correct": false,
+                "feedback": "Incorrect"
+            },
+            {
+                "answer": "Drug Y",
+                "correct": true,
+                "feedback": "Correct"
+            }       
+        ] 
+    },
+    {
+        "question": "Q5. Neratinib is a drug that binds to EGFR kinase enzyme. The drug binds to a particular cysteine residue side chain covalently and inhibits the enzyme activity. Hence neratinib is a _______inhibitor. ? ",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "irreversible",
+                "correct": true,
+                "feedback": "Correct"
+            },
+            {
+                "answer": "reversible",
+                "correct": false,
+                "feedback": "Incorrect"
+            } 
+        ] 
+    },
+    {
+        "question": "Q6. Semaglutide is a peptide drug that binds to glucagon-like peptide-1 receptor and increase the signaling of the receptor (GLP-1) resulting in production of insulin. Hence the drug semaglutide is a __________ ? ",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Agonist of GLP-1 receptor.",
+                "correct": true,
+                "feedback": "Correct"
+            },
+            {
+                "answer": "Antagonist of GLP-1 receptor.",
+                "correct": false,
+                "feedback": "Incorrect"
+            },
+            {
+                "answer": "Partial agonist of GLP-1 receptor",
+                "correct": false,
+                "feedback": "Incorrect"
+            },
+            {
+                "answer": "Partial antagonist of GLP-1 receptor",
+                "correct": false,
+                "feedback": "Incorrect"
+            }                  
+        ] 
+    },
+    {
+        "question": "Q7. Losartan is a drug that binds to angiotensin II receptor and blocks the angiotensin II peptide binding to the receptor and hence losartan is  a __________ ? ",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Agonist of ACE II receptor",
+                "correct": false,
+                "feedback": "Incorrect"
+            },
+            {
+                "answer": "Antagonist of ACE II receptor",
+                "correct": false,
+                "feedback": "Incorrect"
+            },
+            {
+                "answer": "Partial agonist of ACE II receptor",
+                "correct": true,
+                "feedback": "Correct"
+            },
+            {
+                "answer": "Partial antagonist of ACE II receptor",
+                "correct": false,
+                "feedback": "Incorrect"
+            }                  
+        ] 
+    },
+    {
+        "question": "Q8. In docking calculations described in this module, the ligand with the lowest free energy of binding and other liagdn conformations within the 2 kacl of lowest free energy of binding are considered as possible binding ligand molecular poses at the protein binding site. ",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "True",
+                "correct": true,
+                "feedback": "Correct"
+            },
+            {
+                "answer": "False",
+                "correct": false,
+                "feedback": "Incorrect"
+            }        
+        ] 
+    },
+    {
+        "question": "Q9. Docking can be used for the identification of hits, lead generation, and lead Optimization as well as the toxicity of the docked molecule.",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "True",
+                "correct": false,
+                "feedback": "Incorrect"
+            },
+            {
+                "answer": "False",
+                "correct": true,
+                "feedback": "Correct"
+            }        
+        ] 
+    },
+    {
+        "question": "Q10. The figure above shows the docked structure of a drug in a complex with EGFR kinase, highlighting the binding site with non-covalent interactions. The interaction highlighted between the aromatic rings of the drug with Leu 844 and Leu718 is ",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Hydrogen bonding",
+                "correct": false,
+                "feedback": "Incorrect"
+            },
+            {
+                "answer": "Electrostatic interaction",
+                "correct": false,
+                "feedback": "Incorrect"
+            },
+            {
+                "answer": "Hydrophobic interaction",
+                "correct": true,
+                "feedback": "Correct"
+            }                  
+        ] 
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "question": "Which one of the following statements is correct in autodock calculations for ligand-receptor interactions?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "In autodock conformational search method generates different possible conformations of the ligand using a particular algorithm and these millions of conformations are evaluated for energy of interaction on the protein surface docking sites.",
+                "correct": true,
+                "feedback": "Correct"
+            },
+            {
+                "answer": "In autodock, the initial conformation of the molecule is docked onto the surface of the protein, and then whether the ligand molecule fits in the binding site is tested. If that does not fit in, conformation is changed by rotating the bonds and evaluated for the interaction of energy until all conformations of the ligand are exhausted.",
+                "correct": false,
+                "feedback": "Incorrect"
+            },
+            {
+                "answer": "In auto dock, millions of conformations are generated using molecular dynamics simulations first, and then selected low-energy conformations from molecular dynamics are docked to calculate the ligand-receptor interaction energy.",
+                "correct": false,
+                "feedback": "Incorrect"
+            }             
+        ] 
+    }
+]

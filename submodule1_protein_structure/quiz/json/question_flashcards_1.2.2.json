@@ -1,0 +1,14 @@
+[
+    {
+        "front": "What do the clusters in the Ramachandran plot indicate about the structural regions of hemoglobin?",
+        "back": "The clusters indicate that most of the amino acids have right handed alpha helical structure."
+    },
+    {
+        "front": "How does the flexibility of <b>glycine</b> affect its Ramachandran plot distribution?",
+        "back": "It results in all four quadrants of the Ramachandran plots being allowed for glycine."
+    },
+    {
+        "front": "Compare the secondary structure coloring to the Ramachandran plot. Does the plot confirm the structural arrangement of helices and sheets in hemoglobin?",
+        "back": "Yes"
+    }
+]

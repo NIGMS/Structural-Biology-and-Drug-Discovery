@@ -1,0 +1,28 @@
+[
+    {
+        "question": "In enzyme-based drug design, the drug binds to the enzyme active site. Based on the concept, which of the following statements is correct?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "When the endogenous ligand is bound in the enzyme cavity, the drug cannot bind with enzyme.",
+                "correct": false,
+                "feedback": "Incorrect"
+            },
+            {
+                "answer": "The drug designed competitively binds to the active site and inhibits endogenous ligand binding to the enzyme.",
+                "correct": true,
+                "feedback": "Correct"
+            },
+            {
+                "answer": "Both drug and endogenous ligand bind to the enzyme, but enzyme activity is reduced",
+                "correct": false,
+                "feedback": "Incorrect"
+            },
+            {
+                "answer": "Enzyme active site and drug binding site on the enzyme are different.",
+                "correct": false,
+                "feedback": "Incorrect"
+            }                  
+        ] 
+    }
+]

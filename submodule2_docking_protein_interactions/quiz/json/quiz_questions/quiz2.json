@@ -1,0 +1,28 @@
+[
+    {
+        "question": "A ligand/drug interacts with and binds with protein with the following non-covalent interactions.",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Hydrogen bonding",
+                "correct": false,
+                "feedback": "Incorrect"
+            },
+            {
+                "answer": "Hydrophobic interaction",
+                "correct": false,
+                "feedback": "Incorrect"
+            },
+            {
+                "answer": "Electrostatic interaction",
+                "correct": false,
+                "feedback": "Incorrect"
+            },
+            {
+                "answer": "All of the above",
+                "correct": true,
+                "feedback": "Correct"
+            }                  
+        ] 
+    }
+]

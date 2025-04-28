@@ -1,0 +1,28 @@
+[
+    {
+        "question": "During docking calculations described in this module which one of the following statements is correct.",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Receptor protein was allowed to change the conformation.",
+                "correct": false,
+                "feedback": "Incorrect"
+            },
+            {
+                "answer": "Ligand molecule was allowed to change the conformation.",
+                "correct": true,
+                "feedback": "Correct"
+            },
+            {
+                "answer": "Both receptor and ligand had rigid conformation.",
+                "correct": false,
+                "feedback": "Incorrect"
+            },
+            {
+                "answer": "Both ligand and receptor were allowed to be flexible and change the conformation.",
+                "correct": false,
+                "feedback": "Incorrect"
+            }                
+        ] 
+    }
+]

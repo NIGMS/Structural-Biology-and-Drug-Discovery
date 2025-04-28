@@ -1,0 +1,28 @@
+[
+    {
+        "question": "Which one of the following statements is correct regarding the scoring in autodock? (multiple answers may be considered) ",
+        "type": "many_choice",
+        "answers": [
+            {
+                "answer": "Autodock uses an empirical scoring function and calculates the change in free energy between bound and unbound states of ligand and receptor.",
+                "correct": true,
+                "feedback": "Correct"
+            },
+            {
+                "answer": "Docking calculations do not take into account solvation parameters, i.e., it assumes that before docking, the ligand is not bound by water molecules.",
+                "correct": false,
+                "feedback": "Incorrect"
+            },
+            {
+                "answer": "Docking calculations include electrostatic, van der Waals, and hydrogen bonding interactions between the ligand and the receptor.",
+                "correct": true,
+                "feedback": "Correct"
+            },
+            {
+                "answer": "Docking calculations does not consider halogen atoms.",
+                "correct": false,
+                "feedback": "Incorrect"
+            }                  
+        ] 
+    }
+]

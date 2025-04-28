@@ -1,0 +1,18 @@
+[
+    {
+        "question": "The dissociation constant for drug A  binding with its receptor/enzyme is 4x10-6  M, and for drug B is 9x10-4 M. Which one of these binds to the receptor/enzyme with lower affinity?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Drug A",
+                "correct": false,
+                "feedback": "Incorrect"
+            },
+            {
+                "answer": "Drug B",
+                "correct": true,
+                "feedback": "Correct"
+            }              
+        ] 
+    }
+]

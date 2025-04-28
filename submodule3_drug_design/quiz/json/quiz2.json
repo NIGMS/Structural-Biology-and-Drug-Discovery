@@ -1,0 +1,18 @@
+[
+    {
+        "question": "Erlotinib is a drug that binds to epidermal growth factor receptor (EGFR) kinase domain. The binding of drug with kinase enzyme is by hydrogen, bonding and hydrophobic interaction. Hence erlotinib is ___________inhibitor ? ",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "reversible",
+                "correct": true,
+                "feedback": "Correct"
+            },
+            {
+                "answer": "irreversible",
+                "correct": false,
+                "feedback": "Incorrect"
+            } 
+        ] 
+    }
+]

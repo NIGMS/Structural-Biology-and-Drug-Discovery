@@ -1,0 +1,18 @@
+[
+    {
+        "question": "The dissociation half-life of a drug X in the enzyme cavity is 250 µsec, and that of drug Y is 800 µsec. Which ones of these drugs has low Kd value?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Drug X",
+                "correct": false,
+                "feedback": "Incorrect"
+            },
+            {
+                "answer": "Drug Y",
+                "correct": true,
+                "feedback": "Correct"
+            }       
+        ] 
+    }
+]

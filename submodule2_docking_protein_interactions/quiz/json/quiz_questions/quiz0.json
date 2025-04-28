@@ -1,0 +1,18 @@
+[
+    {
+        "question": "Losartan and Candesartan bind to angiotensin II receptors. Candesartan has a dissociative half-life of ~1-2 hrs while Losartan has a dissociative half-life of ~5 min. Based on this information, which drug has a lower $K_d$ value and hence binds to the angiotensin II receptor with higher affinity?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Losartan",
+                "correct": false,
+                "feedback": "Incorrect"
+            },
+            {
+                "answer": "Candesartan",
+                "correct": true,
+                "feedback": "Correct. The clinical efficacy of Losartan and Candesartan in hypertensive patients suggested that Candesartan produced a significant reduction in blood pressure at lower doses (16 mg/day) compared to Losartan (100 mg/day)."
+            }                  
+        ] 
+    }
+]

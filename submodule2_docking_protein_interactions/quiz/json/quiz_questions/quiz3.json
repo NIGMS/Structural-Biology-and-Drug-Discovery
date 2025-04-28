@@ -1,0 +1,18 @@
+[
+    {
+        "question": "Docking calculations always provide pharmacologically active binding site interactions.",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "True",
+                "correct": false,
+                "feedback": "Incorrect"
+            },
+            {
+                "answer": "False",
+                "correct": true,
+                "feedback": "Correct"
+            }              
+        ] 
+    }
+]

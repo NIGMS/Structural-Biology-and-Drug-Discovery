@@ -1,0 +1,18 @@
+[
+    {
+        "question": "Neratinib is a drug that binds to EGFR kinase enzyme. The drug binds to a particular cysteine residue side chain covalently and inhibits the enzyme activity. Hence neratinib is a _______inhibitor. ? ",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "irreversible",
+                "correct": true,
+                "feedback": "Correct"
+            },
+            {
+                "answer": "reversible",
+                "correct": false,
+                "feedback": "Incorrect"
+            } 
+        ] 
+    }
+]

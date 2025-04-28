@@ -1,0 +1,28 @@
+[
+    {
+        "question": "Human insulin protein is composed of 51 amino acids that are made up of two chains. Insulin forms hexamers in the presence of Zinc, the hexamer structure is an example of -----------structure? ",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Primary",
+                "correct": false,
+                "feedback": "Incorrect"
+            },
+            {
+                "answer": "Secondary",
+                "correct": false,
+                "feedback": "Incorrect"
+            },
+            {
+                "answer": "Tertiary",
+                "correct": false,
+                "feedback": "Incorrect"
+            },
+            {
+                "answer": "Quaternary",
+                "correct": true,
+                "feedback": "Correct"
+            }                  
+        ] 
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "question": "Losartan is a drug that binds to angiotensin II receptor and blocks the angiotensin II peptide binding to the receptor and hence losartan is  a __________ ? ",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Agonist of ACE II receptor",
+                "correct": false,
+                "feedback": "Incorrect"
+            },
+            {
+                "answer": "Antagonist of ACE II receptor",
+                "correct": false,
+                "feedback": "Incorrect"
+            },
+            {
+                "answer": "Partial agonist of ACE II receptor",
+                "correct": true,
+                "feedback": "Correct"
+            },
+            {
+                "answer": "Partial antagonist of ACE II receptor",
+                "correct": false,
+                "feedback": "Incorrect"
+            }                  
+        ] 
+    }
+]

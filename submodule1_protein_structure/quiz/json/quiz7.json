@@ -1,0 +1,28 @@
+[
+    {
+        "question": "Q7. The structure of human insulin with backbone and side chain is shown below. This is an example of ----------- structure?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Primary",
+                "correct": false,
+                "feedback": "Incorrect"
+            },
+            {
+                "answer": "Secondary",
+                "correct": false,
+                "feedback": "Incorrect"
+            },
+            {
+                "answer": "Tertiary",
+                "correct": true,
+                "feedback": "Correct"
+            },
+            {
+                "answer": "Quaternary",
+                "correct": false,
+                "feedback": "Incorrect"
+            }                  
+        ] 
+    }
+]

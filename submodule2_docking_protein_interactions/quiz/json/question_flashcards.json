@@ -1,0 +1,14 @@
+[
+    {
+        "front": "What do I do if my protein is large and the grid box for my protein is small?",
+        "back": "You can use a small grid box around the possible binding site on the protein and perform docking calculations."
+    },
+    {
+        "front": "Can I use AutoDock if I have a boron atom in my molecule?",
+        "back": "You can use AutoDock in this situation, but you have to create a forcefield parameter library for atoms that are not available in Autodock by default."
+    },
+    {
+        "front": "I have a molecule that has more than 32 rotatable bonds, and AutoDock options max out at 32 torsions. How do I resolve this issue?",
+        "back": "One way to tackle this problem is to use the most important torsions by selecting particular torsions and leave the remaining as non-rotatable. You could also try to edit the source code for AutoDock to increase the maximum number of torsions, but this will increase the calculation time."
+    }
+]

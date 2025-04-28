@@ -1,0 +1,10 @@
+[
+    {
+        "front": "How many disulfide bonds are there in insulin?",
+        "back": "Three"
+    },
+    {
+        "front": "Insulin has two chains connected by disulfide bonds. Does this mean that insulin has a quaternary structure? <br><i>(Hint: Disulfide bonds are covalent bonds, and two chains of insulin are held together by covalent bonds.)</i>",
+        "back": "No"
+    }
+]

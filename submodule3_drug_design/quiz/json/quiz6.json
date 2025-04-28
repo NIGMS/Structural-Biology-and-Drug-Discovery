@@ -1,0 +1,28 @@
+[
+    {
+        "question": "Semaglutide is a peptide drug that binds to glucagon-like peptide-1 receptor and increase the signaling of the receptor (GLP-1) resulting in production of insulin. Hence the drug semaglutide is a __________ ? ",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Agonist of GLP-1 receptor.",
+                "correct": true,
+                "feedback": "Correct"
+            },
+            {
+                "answer": "Antagonist of GLP-1 receptor.",
+                "correct": false,
+                "feedback": "Incorrect"
+            },
+            {
+                "answer": "Partial agonist of GLP-1 receptor",
+                "correct": false,
+                "feedback": "Incorrect"
+            },
+            {
+                "answer": "Partial antagonist of GLP-1 receptor",
+                "correct": false,
+                "feedback": "Incorrect"
+            }                  
+        ] 
+    }
+]

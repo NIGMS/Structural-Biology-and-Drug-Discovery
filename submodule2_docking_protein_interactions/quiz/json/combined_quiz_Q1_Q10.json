@@ -1,0 +1,217 @@
+[
+    {
+        "question": "Q1. Losartan and Candesartan bind to angiotensin II receptors. Candesartan has a dissociative half-life of ~1-2 hrs while Losartan has a dissociative half-life of ~5 min. Based on this information, which drug has a lower $K_d$ value and hence binds to the angiotensin II receptor with higher affinity?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Losartan",
+                "correct": false,
+                "feedback": "Incorrect"
+            },
+            {
+                "answer": "Candesartan",
+                "correct": true,
+                "feedback": "Correct. The clinical efficacy of Losartan and Candesartan in hypertensive patients suggested that Candesartan produced a significant reduction in blood pressure at lower doses (16 mg/day) compared to Losartan (100 mg/day)."
+            }                  
+        ] 
+    },
+    {
+        "question": "Q2. In drug discovery, one of the uses of computational docking is,",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "To find the least toxic molecule among thousands of selected molecules.",
+                "correct": false,
+                "feedback": "Incorrect"
+            },
+            {
+                "answer": "Prioritize molecules for synthesis among thousands of designed molecules to accelerate the drug discovery process.",
+                "correct": true,
+                "feedback": "Correct"
+            },
+            {
+                "answer": "To generate a library of molecules that have a high affinity for the target protein",
+                "correct": false,
+                "feedback": "Incorrect"
+            },
+            {
+                "answer": "To select a molecule for clinical trial.",
+                "correct": false,
+                "feedback": "Incorrect"
+            }                  
+        ] 
+    },
+    {
+        "question": "Q3. A ligand/drug interacts with and binds with protein with the following non-covalent interactions.",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Hydrogen bonding",
+                "correct": false,
+                "feedback": "Incorrect"
+            },
+            {
+                "answer": "Hydrophobic interaction",
+                "correct": false,
+                "feedback": "Incorrect"
+            },
+            {
+                "answer": "Electrostatic interaction",
+                "correct": false,
+                "feedback": "Incorrect"
+            },
+            {
+                "answer": "All of the above",
+                "correct": true,
+                "feedback": "Correct"
+            }                  
+        ] 
+    },
+    {
+        "question": "Q4. Docking calculations always provide pharmacologically active binding site interactions.",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "True",
+                "correct": false,
+                "feedback": "Incorrect"
+            },
+            {
+                "answer": "False",
+                "correct": true,
+                "feedback": "Correct"
+            }              
+        ] 
+    },
+    {
+        "question": "Q5. Which one of the following statements is correct in autodock calculations for ligand-receptor interactions?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "In autodock conformational search method generates different possible conformations of the ligand using a particular algorithm and these millions of conformations are evaluated for energy of interaction on the protein surface docking sites.",
+                "correct": true,
+                "feedback": "Correct"
+            },
+            {
+                "answer": "In autodock, the initial conformation of the molecule is docked onto the surface of the protein, and then whether the ligand molecule fits in the binding site is tested. If that does not fit in, conformation is changed by rotating the bonds and evaluated for the interaction of energy until all conformations of the ligand are exhausted.",
+                "correct": false,
+                "feedback": "Incorrect"
+            },
+            {
+                "answer": "In auto dock, millions of conformations are generated using molecular dynamics simulations first, and then selected low-energy conformations from molecular dynamics are docked to calculate the ligand-receptor interaction energy.",
+                "correct": false,
+                "feedback": "Incorrect"
+            }             
+        ] 
+    },
+    {
+        "question": "Q6. During docking calculations described in this module which one of the following statements is correct.",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Receptor protein was allowed to change the conformation.",
+                "correct": false,
+                "feedback": "Incorrect"
+            },
+            {
+                "answer": "Ligand molecule was allowed to change the conformation.",
+                "correct": true,
+                "feedback": "Correct"
+            },
+            {
+                "answer": "Both receptor and ligand had rigid conformation.",
+                "correct": false,
+                "feedback": "Incorrect"
+            },
+            {
+                "answer": "Both ligand and receptor were allowed to be flexible and change the conformation.",
+                "correct": false,
+                "feedback": "Incorrect"
+            }                
+        ] 
+    },
+    {
+        "question": "Q7. Which one of the following statements reflects the limitations of the docking calculations described above? (choose all that apply) ",
+        "type": "many_choice",
+        "answers": [
+            {
+                "answer": "Low energy docking ligand does not necessarily provide a biological change in and pharmacological activity change.",
+                "correct": true,
+                "feedback": "Correct"
+            },
+            {
+                "answer": "Docking calculations may not accommodate the water molecules needed in the binding site.",
+                "correct": true,
+                "feedback": "Correct"
+            },
+            {
+                "answer": "Docking calculations cannot be performed if the binding site on the surface of a protein is not known experimentally.",
+                "correct": false,
+                "feedback": "Incorrect"
+            },
+            {
+                "answer": "Docking calculations do not take into account if the ligand changes the conformation.",
+                "correct": false,
+                "feedback": "Incorrect"
+            }                  
+        ] 
+    },
+    {
+        "question": "Q8. Which one of the following statements is correct regarding the scoring in autodock? (multiple answers may be considered) ",
+        "type": "many_choice",
+        "answers": [
+            {
+                "answer": "Autodock uses an empirical scoring function and calculates the change in free energy between bound and unbound states of ligand and receptor.",
+                "correct": true,
+                "feedback": "Correct"
+            },
+            {
+                "answer": "Docking calculations do not take into account solvation parameters, i.e., it assumes that before docking, the ligand is not bound by water molecules.",
+                "correct": false,
+                "feedback": "Incorrect"
+            },
+            {
+                "answer": "Docking calculations include electrostatic, van der Waals, and hydrogen bonding interactions between the ligand and the receptor.",
+                "correct": true,
+                "feedback": "Correct"
+            },
+            {
+                "answer": "Docking calculations does not consider halogen atoms.",
+                "correct": false,
+                "feedback": "Incorrect"
+            }                  
+        ] 
+    },
+    {
+        "question": "Q9. In docking calculations described in this module, the ligand with the lowest free energy of binding and other liagdn conformations within the 2 kacl of lowest free energy of binding are considered as possible binding ligand molecular poses at the protein binding site. ",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "True",
+                "correct": true,
+                "feedback": "Correct"
+            },
+            {
+                "answer": "False",
+                "correct": false,
+                "feedback": "Incorrect"
+            }        
+        ] 
+    },
+    {
+        "question": "Q10. Docking can be used for the identification of hits, lead generation, and lead Optimization as well as the toxicity of the docked molecule.",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "True",
+                "correct": false,
+                "feedback": "Incorrect"
+            },
+            {
+                "answer": "False",
+                "correct": true,
+                "feedback": "Correct"
+            }        
+        ] 
+    }
+]
