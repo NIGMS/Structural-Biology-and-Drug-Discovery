@@ -1,3 +1,5 @@
+![course card](images/LSU_anchor.png)
+
 # Structural Biology and Drug Discovery
 
 -------------
