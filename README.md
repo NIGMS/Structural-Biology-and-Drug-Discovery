@@ -1,4 +1,6 @@
-![course card](images/LSU_anchor.png)
+<p align="center">
+<img src="images/LSU_anchor.png" width="400" />
+</p>
 
 # Structural Biology and Drug Discovery
 
