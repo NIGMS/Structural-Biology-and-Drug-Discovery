@@ -2,7 +2,7 @@
 <img src="images/LSU_anchor.png" width="400" />
 </p>
 
-# Structural Biology and Drug Discovery
+# <center>Structural Biology and Drug Discovery</center>
 
 -------------
 
