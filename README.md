@@ -2,8 +2,6 @@
 <img src="images/LSU_anchor.png" width="400" />
 </p>
 
-# <center>Structural Biology and Drug Discovery</center>
-
 -------------
 
 ## **Contents**
