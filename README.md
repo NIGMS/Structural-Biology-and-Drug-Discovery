@@ -1,6 +1,6 @@
-![course card](images/LSU_anchor.png)
-
-# Structural Biology and Drug Discovery
+<p align="center">
+<img src="images/LSU_anchor.png" width="400" />
+</p>
 
 -------------
 
@@ -65,12 +65,32 @@ See the [Vertex AI Quickstart instructions](https://cloud.google.com/vertex-ai/d
 6. To clone the Github repository for this module in JupyterLab, open a Terminal (File -> New Launcher -> Terminal) and run the following commands:
 ```bash
 cd ~
-git clone https://github.com/rmagesh148/Structural-Biology-and-Drug-Discovery.git
+git clone https://github.com/NIGMS/Structural-Biology-and-Drug-Discovery.git
 ```
 <br>    
 After the last command completes there should be a folder name *Structural-Biology-and-Drug-Discovery* that contains each submodule directory. Start with Submodule 0 to confirm you can spin up the PyMOL and AutoDock GUIs.    
 
-</details>
+</details><br>
+
+You can also watch the AWS notebook setup video below for step-by-step instructions:
+<p align="center">
+        <a href="https://www.youtube.com/watch?v=Y27-IW6hj6E&list=PLXaEJPtnQ4w7Vu7vqWbttBjUGrPp4Qa7b&index=10">
+            <img src="images/google_setup.png" alt="Creating an GCP Vertex AI Notebook Instance", width="550"/>
+        </a>
+    <br>
+    <span> Click above image to watch notebook setup video </span>
+</p>
+
+### Module Overview Video
+In this video we introduce chromatin occupancy profiling by high-throughput sequencing and compare ChIP-seq, CUT&RUN, and CUT&Tag. We introduce the example datasets used in this module which profile protein occupancy related to BAF chromatin remodeling, and explain a current molecular model of its function. 
+<p align="center">
+        <a href="https://www.youtube.com/watch?v=4n5OgVEok38&list=PLXaEJPtnQ4w7Vu7vqWbttBjUGrPp4Qa7b">
+            <img src="images/lsu_overview.png" alt="NIH/NIGMS Structural Biology & Drug Discovery Overview Video", width="550"/>
+        </a>
+    <br>
+    <span> Click above image to watch overview video </span>
+</p>
+
 
 ## **Getting Started**
 After you work through Submodule 0 please begin working through Submodules 1 - 3 in order. Each submodule notebook will consist of some background information and activities. For the activities, you will execute the code cells and/or work within the PyMOL/AutoDock VM's that you create based on the guidance provided in Submodule 0. Submodule 4 contains **OPTIONAL** activities relevant to the knowledge and skills provided through navigating Submodules 1-3 that can be completed for extra practice.
