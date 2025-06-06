@@ -1,8 +1,8 @@
+# Structural Biology and Drug Discovery Learning Module
+
 <p align="center">
 <img src="images/LSU_anchor.png" width="400" />
 </p>
-
--------------
 
 ## **Contents**
 
