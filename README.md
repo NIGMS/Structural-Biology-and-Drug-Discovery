@@ -84,7 +84,7 @@ You can also watch the AWS notebook setup video below for step-by-step instructi
 ### Module Overview Video
 In this video we introduce chromatin occupancy profiling by high-throughput sequencing and compare ChIP-seq, CUT&RUN, and CUT&Tag. We introduce the example datasets used in this module which profile protein occupancy related to BAF chromatin remodeling, and explain a current molecular model of its function. 
 <p align="center">
-        <a href="https://www.youtube.com/watch?v=4n5OgVEok38&list=PLXaEJPtnQ4w7Vu7vqWbttBjUGrPp4Qa7b">
+        <a href="https://www.youtube.com/watch?v=Gif7vRn4lAM&list=PLXaEJPtnQ4w7Vu7vqWbttBjUGrPp4Qa7b&index=29">
             <img src="images/lsu_overview.png" alt="NIH/NIGMS Structural Biology & Drug Discovery Overview Video", width="550"/>
         </a>
     <br>
